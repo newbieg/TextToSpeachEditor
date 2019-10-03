@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="eli">...</string>
+    <string name="load">Load</string>
+    <string name="newFile">New</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save As ...</string>
+    <string name="write_here">Your Text Here...</string>
+</resources>
